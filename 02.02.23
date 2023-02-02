@@ -1,0 +1,77 @@
+#include <iostream>
+//
+using namespace std;
+//
+int main()
+//
+//
+{
+	//
+	//	int a1, a2;
+	//
+	//	cin >> a1 >> a2;
+	//
+	//	if (a1 > a2)
+	//
+	//		cout << "pirmais skaitlis";
+	//
+	//
+	//
+	//
+	//	else cout << "otrais skaitlis";
+	//
+	//	if (a1 < 0)
+	//
+	//	{
+	//		cout << "pirmais skaitlis ir negativais";
+	//
+	//	}
+	//
+	//	else cout << "otrais skaitlis ir negativais ";
+	//
+	//	if (a1 % 2 == 0)cout << "pirmais skaitlis ir para";
+	//
+	//
+	//	else cout << "pirmais skaitlis ir nepara";
+	//
+	//
+	//
+	//	if (a2 % 2 == 0)cout << "otrais skaitlis  ir para";
+	//
+	//
+	//
+	//
+	//
+	//	else cout << "otrais skaitlis ir nepara";
+	//
+	//}
+
+	int mark;
+	cin >> mark;
+	/*if (mark >= 90 && mark <= 100) { cout << "A"; }
+	if (mark >= 80 && mark <= 90) { cout << "B"; }
+	if (mark >= 70 && mark <= 80) { cout << "C"; }
+	if (mark >= 60 && mark <= 70) { cout << "D"; }
+	if (mark >= 50 && mark < 60) { cout << "E"; }
+	if (mark >= 40 && mark < 50) { cout << "F"; }
+	if (mark >= 0 && mark < 40) { cout << "G";*/ 
+
+	int day;
+	cin >> day;
+	int week;
+	///*if (day > 7) { cout << "wrong "; }
+	 /*if (day == 7) { cout << "Sunday"; }
+	 if (day == 6) { cout << "Saturday "; }
+	else if (day == 5) { cout << "Friday"; }
+	else if (day ==4) { cout << "Thursday"; }
+	else if (day == 3) { cout << "Wednesday"; }
+	else if (day == 2) { cout << "Tuesday"; }
+	else if (day == 1) { cout << "Monday"; }*/
+
+	
+
+
+
+
+
+
